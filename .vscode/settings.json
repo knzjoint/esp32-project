@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "stdint.h": "c",
+    "gpio.h": "c",
+    "fstream": "c",
+    "ios": "c",
+    "iosfwd": "c",
+    "istream": "c",
+    "ostream": "c",
+    "sstream": "c",
+    "streambuf": "c",
+    "strstream": "c",
+    "xlocbuf": "c"
+  }
+}

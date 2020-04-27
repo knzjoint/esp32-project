@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/software/esp-idf/components/nvs_flash/include",
+                "D:/software/esp-idf/components/esp_wifi/include",
+                "D:/software/esp-idf/components/esp32/include",
+                "D:/software/esp-idf/components/freertos/include",
+                "D:/software/esp-idf/components/lwip/lwip/src/include",
+                "D:/software/esp-idf/components/log/include",
+                "D:/software/esp-idf/components/coap/libcoap/examples/lwip",
+                "D:/software/esp-idf/components/mqtt/esp-mqtt/include",
+                "D:/software/esp-idf/components/esp_rom/include",
+                "D:/software/esp-idf/components/esp_common/include",
+                "D:/software/esp-idf/components/esp_event/include",
+                "D:/software/esp-idf/components/tcpip_adapter/include",
+                "D:/software/esp-idf/components/lwip/port/esp32/include",
+                "D:/software/esp-idf/components/newlib/platform_include",
+                "D:/software/esp-idf/components/esp_netif/include",
+                "D:/software/esp-idf/components/xtensa/include",
+                "D:/software/esp-idf/components/spi_flash/include",
+                "D:/software/esp-idf/components/esp_system/include",
+                "D:/software/esp-idf/components/soc/include",
+                "D:/software/esp-idf/components/driver/include",
+                "D:/software/esp-idf/components/freertos/xtensa/include",
+                "D:/software/esp-idf/components/soc/soc/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "D:/software/visualStudio2017/VC/Tools/MSVC/14.15.26726/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "D:\\software\\esp-idf\\components"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
