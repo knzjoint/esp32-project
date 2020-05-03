@@ -17,13 +17,13 @@ menu "Example Connection Configuration"
     if EXAMPLE_CONNECT_WIFI
         config EXAMPLE_WIFI_SSID
             string "WiFi SSID"
-            default "TP-LINK_1803"
+            default "Tenda_6A5C70"
             help
                 SSID (network name) for the example to connect to.
 
         config EXAMPLE_WIFI_PASSWORD
             string "WiFi Password"
-            default "13621912849"
+            default "18701742106"
             help
                 WiFi password (WPA or WPA2) for the example to use.
                 Can be left blank if the network has no security set.

@@ -25,7 +25,8 @@
                 "D:/software/esp-idf/components/soc/include",
                 "D:/software/esp-idf/components/driver/include",
                 "D:/software/esp-idf/components/freertos/xtensa/include",
-                "D:/software/esp-idf/components/soc/soc/include"
+                "D:/software/esp-idf/components/soc/soc/include",
+                "D:/software/esp-idf/components/json/cJSON"
             ],
             "defines": [
                 "_DEBUG",

@@ -34,6 +34,7 @@ static void gpio_task_led(void *arg)
     {
         if (xQueueReceive(gpio_evt_queue, &io_num, portMAX_DELAY))
         {
+            // 显示当前中断GPIO的电平
             printf("GPIO[%d] intr, val: %d\n", io_num, gpio_get_level(io_num));
         }
     }
